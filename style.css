@@ -64,6 +64,11 @@ body {
 
 .wait-icon {
     display: none;
+    margin: 0 auto;
+}
+
+.show {
+    display: block;
 }
 
 .search-item {

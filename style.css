@@ -1,0 +1,17 @@
+/* Variables */
+
+:root {
+    --brown: #91785D;
+    --dark-green: #869D78;
+    --light-blue: #A7CDBD;
+    --light-green: #BBE1C3;
+}
+
+/* Reset */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
